@@ -4,7 +4,8 @@ using namespace std;
 int main()
 {
 cout << "Hello World!" << endl;
-    //OR
+//<<endl FOR NEXT LINE
+cout<<endl //BASICALLY MEANS ENTER
 cout<<"I can print anything now";
 return 0;
 }
